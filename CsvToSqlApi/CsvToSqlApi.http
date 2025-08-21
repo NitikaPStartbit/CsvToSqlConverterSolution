@@ -1,0 +1,6 @@
+@CsvToSqlApi_HostAddress = http://localhost:5169
+
+GET {{CsvToSqlApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
