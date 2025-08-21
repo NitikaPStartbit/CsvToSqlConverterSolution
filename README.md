@@ -18,3 +18,7 @@ This package provides an ASP.NET Core Web API that allows you to upload a CSV fi
 - CsvHelper
 - Microsoft.Data.SqlClient
 
+- ## Installation
+```bash
+dotnet add package CsvToDbDynamicTableConverter --version 1.0.0
+
